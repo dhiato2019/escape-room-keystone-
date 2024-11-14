@@ -1,0 +1,126 @@
+{
+  "items": [
+    { "language": "en", "key": "quest1", "value": "Deactivate the cameras from the surveillance room in the basement" },
+    { "language": "en", "key": "quest2", "value": "Go to the IT office on the ground floor." },
+    { "language": "en", "key": "quest3", "value": "Go to the DSI office and search for a kryptkey" },
+    { "language": "en", "key": "quest4", "value": "Go to the servers room" },
+    { "language": "en", "key": "quest5", "value": "the kryptkey password , look for it  in something personal" },
+    { "language": "en", "key": "quest6", "value": "listen to the phone call" },
+    { "language": "en", "key": "quest7", "value": "Put the blue usb in the desktop" },
+    { "language": "en", "key": "quest8", "value": "get out of the building" },
+
+    
+    { "language": "en", "key": "in_game_controller_pick_up", "value": "Appuyez sur x pour ramasser, maintenez R, I ou U pour faire pivoter, et appuyez sur B pour mettre dans l'inventaire et appuyez sur RT pour utiliser. "  },
+    { "language": "en", "key": "in_game_pickup", "value": "Press E to pick up, hold R, I, or U to rotate, and press P to put in inventory" },
+    { "language": "en", "key": "in_game_interact", "value": "Press F to interact" },
+    { "language": "en", "key": "door_interact", "value": "Use the badge to open" },
+    { "language": "en", "key": "menu_play", "value": "Play" },
+    { "language": "en", "key": "menu_new_game", "value": "New Game" },
+    { "language": "en", "key": "menu_extras", "value": "Extras" },
+    { "language": "en", "key": "go_menu", "value": "Go To Main Menu" },
+    { "language": "en", "key": "menu_exit", "value": "Exit" },
+    { "language": "en", "key": "continue_button", "value": "continue" },
+    { "language": "en", "key": "exit_confirm", "value": "Are you sure you want to exit?" },
+    { "language": "en", "key": "button_yes", "value": "Yes" },
+    { "language": "en", "key": "button_no", "value": "No" },
+    { "language": "en", "key": "extras_choose_picture", "value": "Choose a picture" },
+    { "language": "en", "key": "extras_upload", "value": "Upload" },
+    { "language": "en", "key": "inventory", "value": "Press Alt and double-click on the object you want to use." },
+    { "language": "en", "key": "guard", "value": "the guard must not see you holding sensetive items." },
+    { "language": "en", "key": "pick", "value": "Drop the item before using another item." },
+
+    { "language": "fr", "key": "quest1", "value": "Il est nécessaire de désactiver les caméras. La salle de surveillance se trouve au sous-sol." },
+    { "language": "fr", "key": "quest2", "value": "Allez au bureau du service informatique qui est situé au rez-de-chaussée." },
+    { "language": "fr", "key": "quest3","value": "Allez au bureau du DSI et essayez de trouver un kryptkey."},
+    { "language": "fr", "key": "quest4", "value": "Allez à la salle des serveurs " },
+    { "language": "fr", "key": "quest5", "value": "Cherchez le mot de passe de Kryptkey dans un objet personnel." },
+    { "language": "fr", "key": "quest6", "value": "Écoutez l’appel téléphonique ." },
+    { "language": "fr", "key": "quest7", "value": "Veuillez insérer la clé USB bleue dans le lecteur situé à droite de l’écran pour copier les informations." },
+    { "language": "fr", "key": "quest8", "value": "Quittez le bâtiment." },
+    { "language": "fr", "key": "guard", "value": "le garde ne doit pas vous voir tenir des objets sensibles" },
+
+    { "language": "fr", "key": "in_game_pickup", "value": "Appuyez sur E pour ramasser, maintenez R, I ou U pour faire pivoter, et appuyez sur P pour mettre dans l'inventaire." },
+    { "language": "fr", "key": "in_game_controller_pick_up", "value": "Appuyez sur x pour ramasser, maintenez R, I ou U pour faire pivoter, et appuyez sur B pour mettre dans l'inventaire et appuyez sur RT pour utiliser. "  },
+    { "language": "fr", "key": "in_game_interact", "value": "Appuyez sur F pour interagir" },
+    { "language": "fr", "key": "door_interact", "value": "Utilisez le badge pour ouvrir" },
+    { "language": "fr", "key": "menu_play", "value": "Jouer" },
+    { "language": "fr", "key": "menu_new_game", "value": "Nouveau Jeu" },
+    { "language": "fr", "key": "menu_extras", "value": "Extras" },
+    { "language": "fr", "key": "go_menu", "value": "Aller au menu principal" },
+    { "language": "fr", "key": "menu_exit", "value": "Quitter" },
+    { "language": "fr", "key": "exit_confirm", "value": "Êtes-vous sûr de vouloir quitter ?" },
+    { "language": "fr", "key": "button_yes", "value": "Oui" },
+    { "language": "fr", "key": "button_no", "value": "Non" },
+    { "language": "fr", "key": "extras_choose_picture", "value": "Choisir une image" },
+    { "language": "fr", "key": "extras_upload", "value": "Télécharger" },
+    { "language": "fr", "key": "continue_button", "value": "continuer" },
+    { "language": "fr", "key": "inventory", "value": "Appuyez sur Alt et double-cliquez sur l'objet que vous souhaitez utiliser" },
+    { "language": "fr", "key": "pick", "value": "Lâchez avant d'utiliser un autre item." },
+
+    { "language": "en", "key": "quest_1_1", "value": " Welcome! You are about to undertake a perilous mission: infiltrate a renowned company to steal sensitive data. " },
+    { "language": "en", "key": "quest_1_2", "value": " The employees of this institution are often careless, leaving security vulnerabilities that you can exploit to your advantage." },
+    { "language": "en", "key": "quest_1_3", "value": "our objective is to exploit these vulnerabilities to progress through the various levels. As you move, be cautious and stay alert,  security agents patrol the area."},
+    { "language": "en", "key": "quest_1_4", "value": "A wrong move could draw their attention and compromise your mission. Use your cunning and discretion to avoid being detected!"},
+    { "language": "en", "key": "quest_1_5", "value": "To begin, you need to disable the security cameras. The surveillance room is located in the basement. Enter quietly and neutralize the cameras to proceed" },
+
+
+    { "language": "en", "key": "quest_2_1", "value": "Well done! The cameras are now disabled, you can move forward undetected." },
+    { "language": "en", "key": "quest_2_2", "value": "For the next step, head to the IT department office on the ground floor. " },
+    { "language": "en", "key": "quest_2_3", "value": "There, you will find essential tools to complete your mission." },
+
+    { "language": "en", "key": "quest_3_1", "value": "Congratulations, you have found the access badge for the IT office!" },
+    { "language": "en", "key": "quest_3_2", "value": "Use it to enter and search for the KryptKey USB" },
+
+    { "language": "en", "key": "quest_4_1", "value": "Great job! You’ve acquired the KryptKey USB. " },
+    { "language": "en", "key": "quest_4_2", "value": "Now, make your way to the server room and use the KryptKey to decrypt the data." },
+
+    { "language": "en", "key": "quest_5_1", "value": "However, be careful: it appears the KryptKey requires a password. " },
+    { "language": "en", "key": "quest_5_2", "value": "Head back to the IT office, where you can find it. " },
+
+{ "language": "en", "key": "quest_6_1", "value": "We need the DSI's phone.  " },
+{ "language": "en", "key": "quest_6_2", "value": "A code will be sent through a call." },
+{ "language": "en", "key": "quest_6_3", "value": "Retrieve it and listen to the voicemail to get the password you need for access." },
+
+{ "language": "en", "key": "quest_7_1", "value": "Well done! You’ve successfully gained access to the server and decrypted the data!" },
+{ "language": "en", "key": "quest_7_2", "value": "Now, take the blue USB and use it to copy all the sensitive data you’ve decrypted." },
+
+{ "language": "en", "key": "quest_8_1", "value": "Grab the USB and get ready to leave the building!" },
+{ "language": "en", "key": "quest_8_2", "value": "Stay alert! Keep a low profile and watch out for the security agents. You must avoid being seen with the USB." },
+{ "language": "en", "key": "quest_8_3", "value": "Mission complete! Well done on your outstanding performance!" },
+
+    
+   
+    { "language": "fr", "key": "quest_1_1", "value": "Bienvenue ! Vous êtes sur le point d'accomplir une mission périlleuse : infiltrer une entreprise de renom pour dérober des données sensibles. "},
+    { "language": "fr", "key": "quest_1_2", "value": "Les collaborateurs de cette institution sont souvent négligents, laissant des failles de sécurité que vous pouvez exploiter à votre avantage." },
+    { "language": "fr", "key": "quest_1_3", "value": "Votre objectif est d'exploiter ces vulnérabilités pour progresser à travers les différents niveaux. En vous déplaçant, soyez prudent et restez vigilant, car des agents de sécurité patrouillent les lieux." },
+    { "language": "fr", "key": "quest_1_4", "value": " Une mauvaise manœuvre pourrait attirer leur attention et compromettre votre mission. Utilisez votre ruse et votre discrétion pour éviter d'être repéré !" },
+    { "language": "fr", "key": "quest_1_5", "value": "Pour commencer, vous devez désactiver les caméras de sécurité. La salle de surveillance est située au sous-sol. Entrez discrètement et neutralisez les caméras pour avancer." },
+  
+  
+
+    { "language": "fr", "key": "quest_2_1", "value": "Excellent travail ! Les caméras sont maintenant hors service, vous pouvez avancer sans être détecté." },
+    { "language": "fr", "key": "quest_2_2", "value": "Pour la prochaine étape, dirigez-vous vers le bureau du service informatique au rez-de-chaussée. " },
+    { "language": "fr", "key": "quest_2_3", "value": "Là, vous trouverez des outils essentiels pour accomplir votre mission." },
+
+    { "language": "fr", "key": "quest_3_1", "value": "Félicitations, vous avez trouvé le badge d'accès pour le bureau de Directeur des Systèmes d'Information." },
+    { "language": "fr", "key": "quest_3_2", "value": " Utilisez-le pour entrer et cherchez la clé USB KryptKey." },
+
+
+    { "language": "fr", "key": "quest_4_1", "value": "Bien joué ! Vous avez récupéré la clé USB KryptKey" },
+    { "language": "fr", "key": "quest_4_2", "value": "Maintenant, il est temps de vous rendre à la salle des serveurs et d'utiliser la KryptKey pour déchiffrer les données." },
+
+    { "language": "fr", "key": "quest_5_1", "value": "Cependant, attention : il semble que la KryptKey nécessite un mot de passe. " },
+    { "language": "fr", "key": "quest_5_2", "value": "Retournez au bureau de Directeur des Systèmes d'Information , où vous pourrez le trouver." },
+    
+
+{ "language": "fr", "key": "quest_6_1", "value": "Soyez vigilant, car une authentification multi-facteurs a été instaurée pour renforcer la sécurité." },
+{ "language": "fr", "key": "quest_6_2", "value": "Nous avons besoin du téléphone du Directeur des Systèmes d'Information.Un code vous sera transmis par le biais d'un appel téléphonique." },
+{ "language": "fr", "key": "quest_6_3", "value": " Allez le chercher et écoutez l'appel vocal pour obtenir le mot de passe nécessaire à l'accès." },
+{ "language": "fr", "key": "quest_7_1", "value": "Bravo, vous avez réussi à accéder et déchiffrer le serveur avec succès !" },
+{ "language": "fr", "key": "quest_7_2", "value": "Maintenant, utilisez la clé USB bleue pour copier toutes les données sensibles que vous avez décryptées." },
+{ "language": "fr", "key": "quest_8_1", "value": "Mission accomplie ! Prenez la clé USB et préparez-vous à sortir du bâtiment." },
+{ "language": "fr", "key": "quest_8_2", "value": "Attention : restez discret et méfiez-vous des gardes. Ils ne doivent pas vous voir avec la clé USB." },
+{ "language": "fr", "key": "quest_8_3", "value": "Mission accomplie !félicitations pour votre excellent travail !" }
+
+  ]
+}
